@@ -23,13 +23,12 @@ button {
   font-family: fantasy;
   background-color: rgb(170, 39, 39);
   box-shadow: 0 8px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
-  style="
+  style"
     border-top-width: 5px;
     border-left-width: 5px;
     padding-bottom: 5px;
     border-right-width: 5px;
-    padding: 8px 25px;
-}
+    padding 8px 25px;}
 
 
 
